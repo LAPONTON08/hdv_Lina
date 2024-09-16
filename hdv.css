@@ -1,0 +1,21 @@
+*{
+background-color: #FFFFFE;
+}
+
+h1{
+ color: blue;
+ font-size: 60px;
+}
+
+h2{
+    color: seagreen;
+    font-size:40px;
+}
+
+h3{
+    font-size:30px;
+}
+
+p{
+    font-size: 24px;
+}
